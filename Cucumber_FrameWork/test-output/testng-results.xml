@@ -1,0 +1,485 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="16" passed="16" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Login Button Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Valid Credentails]]>
+    </line>
+    <line>
+      <![CDATA[Login Button Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Valid Credentails]]>
+    </line>
+    <line>
+      <![CDATA[Login Button Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Invalid credentials]]>
+    </line>
+    <line>
+      <![CDATA[Login Button Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Invalid credentials]]>
+    </line>
+    <line>
+      <![CDATA[Login Button Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Username cannot be empty]]>
+    </line>
+    <line>
+      <![CDATA[Login Button Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Password cannot be empty]]>
+    </line>
+    <line>
+      <![CDATA[Login Button Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Valid Credentails]]>
+    </line>
+    <line>
+      <![CDATA[Login Button Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Username cannot be empty]]>
+    </line>
+    <line>
+      <![CDATA[Login Button Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Valid Credentails]]>
+    </line>
+    <line>
+      <![CDATA[Login Button Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Eploye id Found in table::1890]]>
+    </line>
+    <line>
+      <![CDATA[Login Button Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Eploye id Found in table::1891]]>
+    </line>
+    <line>
+      <![CDATA[Login Button Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Eploye id Found in table::1892]]>
+    </line>
+    <line>
+      <![CDATA[Login Button Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Eploye id Found in table::1893]]>
+    </line>
+    <line>
+      <![CDATA[Login Button Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Eploye id Found in table::1894]]>
+    </line>
+    <line>
+      <![CDATA[Login Button Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Eploye id Found in table::1895]]>
+    </line>
+    <line>
+      <![CDATA[Login Button Displayed]]>
+    </line>
+    <line>
+      <![CDATA[Eploye id Found in table::1896]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2025-04-08T08:08:54Z" name="Cucumber" finished-at="2025-04-08T08:12:19Z" duration-ms="204610">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:testRunner.AdminLogin@5f9edf14]" name="runScenario" class="cucumber.api.testng.AbstractTestNGCucumberTests"/>
+        <method signature="AbstractTestNGCucumberTests.runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:testRunner.AddNewEmployee@35b74c5c]" name="runScenario" class="cucumber.api.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2025-04-08T08:08:54Z" name="LoginTest" finished-at="2025-04-08T08:10:07Z" duration-ms="72347">
+      <class name="testRunner.AdminLogin">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:testRunner.AdminLogin@5f9edf14]" started-at="2025-04-08T08:08:54Z" name="setUpClass" finished-at="2025-04-08T08:08:55Z" duration-ms="202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:testRunner.AdminLogin@5f9edf14]" started-at="2025-04-08T08:08:55Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-04-08T08:09:07Z" duration-ms="12143" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["Login Functionality"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Login Finctionlaity Feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Login Button Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Valid Credentails]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:testRunner.AdminLogin@5f9edf14]" started-at="2025-04-08T08:09:07Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-04-08T08:09:15Z" duration-ms="8554" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[""]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Login Finctionlaity Feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Login Button Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Valid Credentails]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:testRunner.AdminLogin@5f9edf14]" started-at="2025-04-08T08:09:15Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-04-08T08:09:23Z" duration-ms="7717" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[""]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Login Finctionlaity Feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Login Button Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Invalid credentials]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:testRunner.AdminLogin@5f9edf14]" started-at="2025-04-08T08:09:23Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-04-08T08:09:30Z" duration-ms="6979" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[""]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Login Finctionlaity Feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Login Button Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Invalid credentials]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:testRunner.AdminLogin@5f9edf14]" started-at="2025-04-08T08:09:30Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-04-08T08:09:36Z" duration-ms="6447" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[""]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Login Finctionlaity Feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Login Button Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Username cannot be empty]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:testRunner.AdminLogin@5f9edf14]" started-at="2025-04-08T08:09:36Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-04-08T08:09:43Z" duration-ms="6530" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[""]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Login Finctionlaity Feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Login Button Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Password cannot be empty]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:testRunner.AdminLogin@5f9edf14]" started-at="2025-04-08T08:09:43Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-04-08T08:09:51Z" duration-ms="7923" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[""]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Login Finctionlaity Feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Login Button Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Valid Credentails]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:testRunner.AdminLogin@5f9edf14]" started-at="2025-04-08T08:09:51Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-04-08T08:09:58Z" duration-ms="6631" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[""]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Login Finctionlaity Feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Login Button Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Username cannot be empty]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:testRunner.AdminLogin@5f9edf14]" started-at="2025-04-08T08:09:58Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-04-08T08:10:07Z" duration-ms="8999" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[""]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["Login Finctionlaity Feature"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Login Button Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Valid Credentails]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:testRunner.AdminLogin@5f9edf14]" started-at="2025-04-08T08:10:07Z" name="tearDownClass" finished-at="2025-04-08T08:10:07Z" duration-ms="74" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- testRunner.AdminLogin -->
+    </test> <!-- LoginTest -->
+    <test started-at="2025-04-08T08:10:07Z" name="AddEmpTest" finished-at="2025-04-08T08:12:19Z" duration-ms="132121">
+      <class name="testRunner.AddNewEmployee">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:testRunner.AddNewEmployee@35b74c5c]" started-at="2025-04-08T08:10:07Z" name="setUpClass" finished-at="2025-04-08T08:10:07Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:testRunner.AddNewEmployee@35b74c5c]" started-at="2025-04-08T08:10:07Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-04-08T08:10:23Z" duration-ms="16455" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[""]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["add multile emp Functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Login Button Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Eploye id Found in table::1890]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:testRunner.AddNewEmployee@35b74c5c]" started-at="2025-04-08T08:10:23Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-04-08T08:10:40Z" duration-ms="16543" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[""]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["add multile emp Functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Login Button Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Eploye id Found in table::1891]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:testRunner.AddNewEmployee@35b74c5c]" started-at="2025-04-08T08:10:40Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-04-08T08:11:00Z" duration-ms="20593" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[""]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["add multile emp Functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Login Button Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Eploye id Found in table::1892]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:testRunner.AddNewEmployee@35b74c5c]" started-at="2025-04-08T08:11:00Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-04-08T08:11:25Z" duration-ms="24364" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[""]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["add multile emp Functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Login Button Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Eploye id Found in table::1893]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:testRunner.AddNewEmployee@35b74c5c]" started-at="2025-04-08T08:11:25Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-04-08T08:11:48Z" duration-ms="23050" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[""]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["add multile emp Functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Login Button Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Eploye id Found in table::1894]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:testRunner.AddNewEmployee@35b74c5c]" started-at="2025-04-08T08:11:48Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-04-08T08:12:04Z" duration-ms="16450" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[""]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["add multile emp Functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Login Button Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Eploye id Found in table::1895]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(cucumber.api.testng.PickleEventWrapper, cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:testRunner.AddNewEmployee@35b74c5c]" started-at="2025-04-08T08:12:04Z" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-04-08T08:12:19Z" duration-ms="14558" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[""]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["add multile emp Functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Login Button Displayed]]>
+            </line>
+            <line>
+              <![CDATA[Eploye id Found in table::1896]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:testRunner.AddNewEmployee@35b74c5c]" started-at="2025-04-08T08:12:19Z" name="tearDownClass" finished-at="2025-04-08T08:12:19Z" duration-ms="59" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- testRunner.AddNewEmployee -->
+    </test> <!-- AddEmpTest -->
+  </suite> <!-- Cucumber -->
+</testng-results>
